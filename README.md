@@ -26,3 +26,20 @@ The following bucket policy allows public read access to objects in the S3 bucke
     }
   ]
 }
+## Project Screenshots
+
+### S3 Bucket Objects
+![S3 Bucket Objects]
+(01-s3-bucket-objects.png.png)
+
+### Static Website Hosting
+![Static Website Hosting]
+(02-static-website-hosting.png.png)
+
+### GitHub Actions
+![GitHub Actions]
+(03-github-actions-success.png.png)
+
+### Website Result
+![Website Result]
+(04-website-result.png.png)
